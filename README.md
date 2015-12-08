@@ -1,8 +1,7 @@
-Diffusion Maps Demo Code
-========================
+# Diffusion Maps Demo Code
 
-Run demos
----------
+## Run demos
+
 demo1.py
   Demonstrate construction and structure of diffusion matrix.
 
